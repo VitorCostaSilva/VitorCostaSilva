@@ -16,21 +16,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![Vitor GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
-
----
-
-## 📂 Projetos em Destaque
-- 🔑 [Login Tests](https://github.com/SEU-USUARIO/login-tests) – Casos de teste automatizados para login.  
-- 📦 [API Testing](https://github.com/SEU-USUARIO/api-testing) – Testes de API com Postman/RestAssured.  
-- 📝 [QA Studies](https://github.com/SEU-USUARIO/qa-studies) – Repositório de estudos sobre QA.  
-
----
-
 ## 📫 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)  
-📧 **seuemail@email.com**
+📧 **vitocostasilva@gmail.com**
 
 ---
