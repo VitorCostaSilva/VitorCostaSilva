@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Vitor Costa  
+# Olá, eu sou o Vitor Costa 😄
 
 🎯 Migrando para a área de **QA (Quality Assurance)** e focado em **automação de testes**.  
 📚 Estudante de **Sistemas de Informação**.  
