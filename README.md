@@ -1,6 +1,6 @@
 # Olá, eu sou o Vitor Costa 😄
 
-🎯 Migrando para a área de **QA (Quality Assurance)** e focado em **automação de testes**.  
+🎯  **QA (Quality Assurance)** focado em **automação de testes**.  
 📚 Estudante de **Sistemas de Informação**.  
 💻 Atualmente estagiário de TI, aprendendo cada vez mais sobre **qualidade de software e boas práticas de testes**.  
 
