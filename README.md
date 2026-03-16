@@ -1,6 +1,6 @@
 # Olá, eu sou o Vitor Costa 👋
 
-🎯 **QA Engineer** focado em **automação de testes e qualidade de software**
+🎯 **QA** focado em **automação de testes e qualidade de software**
 📚 Estudante de **Sistemas de Informação**
 💻 Atualmente **estagiário de TI**, atuando com testes manuais, automação E2E e boas práticas de qualidade em ciclos ágeis
 
